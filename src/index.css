@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100;
+  
+}
+html,body{
+  overflow-x: hidden;
+}
+
+.cart-enter {
+  transform: translateX(100%);
+}
+
+.cart-enter-active {
+  transform: translateX(0);
+  transition: transform 300ms ease-in-out;
+}
+
+.cart-exit {
+  transform: translateX(0);
+}
+
+.cart-exit-active {
+  transform: translateX(100%);
+  transition: transform 300ms ease-in-out;
+}
+input{
+  outline: none;
+}

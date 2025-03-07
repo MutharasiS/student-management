@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Math Assignment",
+    "dueDate": "2025-03-15",
+    "description": "Complete the exercises in Chapter 5.",
+    "instructions": "Solve all the problems in Chapter 5 and submit your answers.",
+    "student": "student1"
+  },
+  {
+    "id": 2,
+    "title": "Science Project",
+    "dueDate": "2025-03-20",
+    "description": "Build a model of the solar system.",
+    "instructions": "Create a 3D model of the solar system and write a report explaining each planet.",
+    "student": "student2"
+  },
+  {
+    "id": 3,
+    "title": "History Essay",
+    "dueDate": "2025-03-25",
+    "description": "Write an essay on the Industrial Revolution.",
+    "instructions": "Discuss the causes and effects of the Industrial Revolution.",
+    "student": "student1"
+  },
+  {
+    "id": 4,
+    "title": "English Literature",
+    "dueDate": "2025-03-30",
+    "description": "Read and analyze 'To Kill a Mockingbird'.",
+    "instructions": "Write a report on the themes and characters in the book.",
+    "student": "student2"
+  },
+  {
+    "id": 5,
+    "title": "Biology Lab Report",
+    "dueDate": "2025-04-05",
+    "description": "Conduct an experiment on photosynthesis.",
+    "instructions": "Document your findings and submit a lab report.",
+    "student": "student1"
+  },
+  {
+    "id": 6,
+    "title": "Chemistry Assignment",
+    "dueDate": "2025-04-10",
+    "description": "Complete the exercises in Chapter 8.",
+    "instructions": "Solve all the problems in Chapter 8 and submit your answers.",
+    "student": "student2"
+  },
+  {
+    "id": 7,
+    "title": "Physics Project",
+    "dueDate": "2025-04-15",
+    "description": "Build a simple electric circuit.",
+    "instructions": "Create a working model and write a report explaining the circuit.",
+    "student": "student1"
+  },
+  {
+    "id": 8,
+    "title": "Geography Presentation",
+    "dueDate": "2025-04-20",
+    "description": "Prepare a presentation on climate change.",
+    "instructions": "Discuss the causes, effects, and solutions to climate change.",
+    "student": "student2"
+  },
+  {
+    "id": 9,
+    "title": "Art Project",
+    "dueDate": "2025-04-25",
+    "description": "Create a painting inspired by nature.",
+    "instructions": "Submit your painting along with a brief description of your inspiration.",
+    "student": "student1"
+  },
+  {
+    "id": 10,
+    "title": "Music Composition",
+    "dueDate": "2025-04-30",
+    "description": "Compose a piece of music.",
+    "instructions": "Write and record a piece of music and submit the recording.",
+    "student": "student2"
+  },
+  {
+    "id": 11,
+    "title": "Computer Science Project",
+    "dueDate": "2025-05-05",
+    "description": "Develop a simple web application.",
+    "instructions": "Create a web application using HTML, CSS, and JavaScript.",
+    "student": "student1"
+  },
+  {
+    "id": 12,
+    "title": "Economics Assignment",
+    "dueDate": "2025-05-10",
+    "description": "Analyze the impact of inflation.",
+    "instructions": "Write a report on the causes and effects of inflation.",
+    "student": "student2"
+  },
+  {
+    "id": 13,
+    "title": "Political Science Essay",
+    "dueDate": "2025-05-15",
+    "description": "Discuss the role of the United Nations.",
+    "instructions": "Write an essay on the functions and challenges of the United Nations.",
+    "student": "student1"
+  },
+  {
+    "id": 14,
+    "title": "Philosophy Paper",
+    "dueDate": "2025-05-20",
+    "description": "Examine the concept of free will.",
+    "instructions": "Write a paper discussing different philosophical perspectives on free will.",
+    "student": "student2"
+  },
+  {
+    "id": 15,
+    "title": "Sociology Research",
+    "dueDate": "2025-05-25",
+    "description": "Conduct a survey on social media usage.",
+    "instructions": "Analyze the data and write a report on your findings.",
+    "student": "student1"
+  },
+  {
+    "id": 16,
+    "title": "Psychology Experiment",
+    "dueDate": "2025-05-30",
+    "description": "Design and conduct an experiment on memory.",
+    "instructions": "Document your methodology and results in a report.",
+    "student": "student2"
+  },
+  {
+    "id": 17,
+    "title": "Environmental Science Project",
+    "dueDate": "2025-06-05",
+    "description": "Investigate the effects of pollution.",
+    "instructions": "Write a report on the sources and impacts of pollution.",
+    "student": "student1"
+  },
+  {
+    "id": 18,
+    "title": "Business Studies Assignment",
+    "dueDate": "2025-06-10",
+    "description": "Create a business plan for a startup.",
+    "instructions": "Develop a comprehensive business plan and submit it.",
+    "student": "student2"
+  },
+  {
+    "id": 19,
+    "title": "Mathematics Project",
+    "dueDate": "2025-06-15",
+    "description": "Explore the applications of calculus.",
+    "instructions": "Write a report on how calculus is used in various fields.",
+    "student": "student1"
+  },
+  {
+    "id": 20,
+    "title": "History Presentation",
+    "dueDate": "2025-06-20",
+    "description": "Prepare a presentation on World War II.",
+    "instructions": "Discuss the causes, major events, and consequences of World War II.",
+    "student": "student2"
+  }
+]
